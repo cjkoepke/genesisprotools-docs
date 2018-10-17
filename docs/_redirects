@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://nervous-rosalind-3e98a9.netlify.com/* https://docs.genesisprotools.com/:splat 301!
