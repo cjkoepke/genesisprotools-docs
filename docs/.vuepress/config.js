@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Genesis Pro Tools",
-	description: "Documentation for all Genesis Pro Tools packages and CLI for Genesis developers.",
+	description: "Documentation for all Genesis Pro Tools packages and the CLI for Genesis developers.",
 	ga: "UA-127640643-1",
 	head: [
 		['link', { rel: 'icon', href: '/favicon.png' }],
@@ -17,7 +17,13 @@ module.exports = {
 		lastUpdated: 'Last Updated',
 		nav: [
 			{ text: 'Home', link: '/' },
-			{ text: 'Get Started', link: '/guides/getting-started/' },
+			{ text: 'Getting Started', link: '/guides/getting-started/' },
+			{ text: 'Packages', items: [
+				{ text: 'Theme', items: [
+					{ text: 'Core', link: '/docs/theme/core/' },
+					{ text: 'Uno', link: '/docs/theme/uno/'}
+				]}
+			]},
 			{ text: 'GPT-CLI', link: '/cli/'}
 		],
 		sidebar: 'auto'
