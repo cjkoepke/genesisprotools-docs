@@ -1,5 +1,5 @@
 # VuePress
-docs/.vuepress/dist
+./vuepress/dist
 
 # Logs
 logs
