@@ -67,6 +67,12 @@ for common development tasks.
 
 GPT-CLI is [open-source](https://github.com/cjkoepke/genesisprotools-cli) and can be contributed to as users of Genesis Pro Tools see fit and choose to contribute. Rules for contributing are yet to be created, so stay tuned.
 
+To install GPT-CLI, run:
+
+```bash
+npm i gpt-cli -g
+```
+
 ## Setup a New Theme
 The first step in any new Genesis project is usually to set up a new theme. Normally, this would entail copying/pasting your starter theme to
 a new theme folder in the `/wp-content/themes` directory, and then manually going through and updating all the information to reflect the new project.
