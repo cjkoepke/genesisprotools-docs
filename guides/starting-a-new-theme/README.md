@@ -79,6 +79,15 @@ a new theme folder in the `/wp-content/themes` directory, and then manually goin
 
 With the Genesis Pro Tools Theme Package, initial setup is a breeze.
 
+### Authenticate
+If you haven't already, you'll want to authenticate your account to gain access to packages. In terminal:
+
+```bash
+gpt config
+```
+
+When prompted, enter your `username` and `token`.
+
 ### Install Core
 Navigate to your theme directory via a terminal of your choice. In this example, our theme will be called `gpt`. So, if your theme folder was located in
 a directory like `Sites/example/wp-content/themes`, you would type this and then hit `Enter`:
