@@ -81,13 +81,13 @@ With the Genesis Pro Tools Theme Package, initial setup is a breeze.
 
 ### Install Core
 Navigate to your theme directory via a terminal of your choice. In this example, our theme will be called `gpt`. So, if your site was located in
-a directory like `Sites/example/wp-content/themes`, you would navigate to:
+a directory like `Sites/example/wp-content/themes`, you would type this and then hit `Enter`:
 
 ```bash
-mkdir gpt && cd gpt
+cd Sites/example/wp-content/themes/gpt
 ``` 
 
-This makes our initial theme folder and sets the current directory to be inside of it. Next, we setup the Theme Core module:
+Next, we setup the Theme Core module:
 
 ```bash
 gpt install core-theme
