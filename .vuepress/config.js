@@ -1,6 +1,6 @@
 module.exports = {
 	title: "Genesis Pro Tools",
-	description: "Documentation for all Genesis Pro Tools packages and the CLI for Genesis developers.",
+	description: "Official documentation for Genesis Pro Tools packages, the associated CLI, and guides.",
 	ga: "UA-127640643-1",
 	head: [
 		['link', { rel: 'icon', href: '/favicon.png' }],
