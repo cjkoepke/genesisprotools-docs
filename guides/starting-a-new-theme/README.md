@@ -121,7 +121,7 @@ by installing Uno, our starter theme that's built specifically for this setup.
 From the same directory, run the following command:
 
 ```bash
-gpt theme start
+gpt theme init
 ```
 
 This will prompt you with two questions:
